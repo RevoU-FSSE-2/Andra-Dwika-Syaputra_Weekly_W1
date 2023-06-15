@@ -1,12 +1,10 @@
-let contactButton = document.getElementById("contactButton");
-let contactInfo = document.getElementById("contactInfo");
+var contactButton = document.getElementById("contactButton");
+var contactInfo = document.getElementById("contactInfo");
 
 contactButton.addEventListener("click", function() {
     if (contactInfo.style.display === "none") {
-        contactInfo.style.display = "block";
-        contactButton.textContent = "Hide contact info";
+        contactInfo.style.display = "flex";
     } else {
         contactInfo.style.display = "none";
-        contactButton.textContent = "Contact me";
     }
 });
