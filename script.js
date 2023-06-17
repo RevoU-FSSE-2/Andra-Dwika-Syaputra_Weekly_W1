@@ -1,5 +1,5 @@
-var contactButton = document.getElementById("contactButton");
-var contactInfo = document.getElementById("contactInfo");
+let contactButton = document.getElementById("contactButton");
+let contactInfo = document.getElementById("contactInfo");
 
 contactButton.addEventListener("click", function() {
     if (contactInfo.style.display === "none") {
