@@ -24,7 +24,7 @@ Footer: A footer section with navigation links.
 Installation
 To run the website locally, follow these steps:
 
-Clone the repository: git clone https://github.com/your-repo-url.git
+Clone the repository: git clone [https://github.com/your-repo-url.git](https://github.com/RevoU-FSSE-2/Andra-Dwika-Syaputra_Weekly_W1.git)
 Navigate to the project directory: cd your-repo-directory
 No additional dependencies or installations are required.
 
